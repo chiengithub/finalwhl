@@ -4,7 +4,7 @@ date: 2018-2-16 14:38:13
 category: Technology
 ---
 
-![Ai](https://www.webhomelibrary.com/content/images/)
+![Web Tools](https://www.webhomelibrary.com/content/images/innovation6.jpeg)
 
 WHERE DO YOU Start TO BRIDGE BOTH OF THESE WORLDS?
 Let‘s start together with your learners. To date, a lot more than 40 books have already been written on

@@ -4,7 +4,7 @@ date: 2018-04-14 14:38:13
 category: Technology
 ---
 
-![Ai](https://www.webhomelibrary.com/content/images/)
+![Ai](https://www.webhomelibrary.com/content/images/innovation1.jpeg)
 
 Footbonaut:
 

@@ -4,7 +4,7 @@ date: 2018-04-5 14:38:13
 category: Computing
 ---
 
-![Ai](https://www.webhomelibrary.com/content/images/)
+![Big Data](https://www.webhomelibrary.com/content/images/big-data.jpg)
 
 VARIETY
 All of the data is has expanded to be as vast as the amount of sources that generate data. Data could be sourced from email messages, sound players, video recorders, watches, personal devices, computers, wellness monitoring systems,  satellites..etc. Each device that's recording data is usually recording and encoding it in a different structure and design. Additionally, the data produced from these devices also can vary by granularity, timing, schema and pattern. The reward that variety provides is versatility to store various kinds of details without enforcing traditional relational constraints. A lot of the data created is founded on object structures that extremely based on an event, individual, location or transaction. Having data recorded in a flexible framework that can vary provides specific and biased details.

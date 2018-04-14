@@ -4,7 +4,7 @@ date: 2018-03-30 14:38:13
 category: Computing 
 ---
 
-![Ai](https://www.webhomelibrary.com/content/images/)
+![warehouse managing](https://www.webhomelibrary.com/content/images/innovation2.jpg)
 
 Business that provide items to people in exchange of monetary will find out the need for the managing the warehouse correctly. Despite knowing the known fact, many companies or warehouse managers accept a simplistic program such as for example Excel often, spreadsheets, Word records to control warehouse inventory. There are advantages of using these scheduled programs for specific tasks, they neglect to add efficiency however, precision, and quality control to the procedure.  
  

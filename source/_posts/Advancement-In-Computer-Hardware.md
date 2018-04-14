@@ -4,7 +4,7 @@ date: 2018-04-14 14:38:13
 category: Hardware
 ---
 
-![Ai](https://www.webhomelibrary.com/content/images/)
+![Ai](https://www.webhomelibrary.com/content/images/innovation3.jpeg)
 
 In the past decades computers are upon its establishment period even now. That's the reason why there are a whole lot of problems with regards to their features and appearance aswell. Take for example, keyboards were large during those days and computers are extremely heavy.  All computer hardware during the past are linked to the CPU or central processing device via wire, and that's the reason people during the past don't have the freedom to go around that much.  Because of technical advancement, today we usually do not experience problems in the past.  Types of technologically advanced equipment are rear projection display and projection film.
 

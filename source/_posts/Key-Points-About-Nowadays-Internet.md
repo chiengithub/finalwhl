@@ -3,6 +3,9 @@ title: Key Points About Nowadays Internet
 date: 2018-03-14 14:38:13
 category: Internet 
 ---
+
+![Key Points](https://www.webhomelibrary.com/content/images/big-image-test1.jpeg)
+
 It allows you to definitely be using one computer system even though carrying out work on another. Details retrieval may be the second simple Internet function. Many usage of the Internet to locate and some of the free download, quality computer software that is offered by developers on computer systems all around the global world.
 
 Document transfer protocol (FTP) can be used to gain access to a remote computer and retrieve data files from it. FTP is a simple and fast method if you find out the remote pc site where in fact the file is stored.

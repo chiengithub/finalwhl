@@ -4,7 +4,7 @@ date: 2018-02-12 19:31:13
 category: Technology
 ---
 
-![Ai](https://www.webhomelibrary.com/content/images/)
+![big data](https://www.webhomelibrary.com/content/images/big-image-test1.jpeg)
 
 Innovation spaces-structures and interiors found in the innovation overall economy ranging from incubators to analyze institutes to innovation centers and start-up spaces-are developing considerably in towns and suburbs around the world. In both United Europe and Says, for example, incubators and accelerators have significantly more than doubled because the financial crisis. A new development paper from the Brookings Institution’s Anne T. and Robert M. Bass Initiative on Placemaking and Innovation, “Innovation spaces: The brand new design of function”, finds that not merely are these spaces proliferating, also, they are changing to reflect the evolving collaborative, cross-sector, and high-tech character of innovation.
 

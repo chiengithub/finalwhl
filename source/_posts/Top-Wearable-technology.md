@@ -4,7 +4,7 @@ date: 2018-04-13 14:38:13
 category: Technology
 ---
 
-![Ai](https://www.webhomelibrary.com/content/images/)
+![Wearable technology](https://www.webhomelibrary.com/content/images/innovation1.jpeg)
 
 Wearable technology is at the moment the HOT area of growth in technology. With smartphones extremely prevalent among the majority of cellular phone users, the capability to possess wearable tech is continuing to grow. Many trust connections to smartphones, tablets or laptops and the programs and applications that can be positioned on to those devices. I believe that wearable tech will actually have the ability to change the world. With devices like the types I shall describe below, I think the near future is usually limitless in applying wearable tech to be utilized from classrooms and meeting areas to hospitals and battlefields.
 
